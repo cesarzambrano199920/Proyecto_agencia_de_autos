@@ -1,0 +1,6 @@
+D:\UNIVERSIDAD\3er semestre\Proyectos en C#\Agencia_de_Autos\Agencia_de_Autos\bin\Debug\Agencia_de_Autos.exe.config
+D:\UNIVERSIDAD\3er semestre\Proyectos en C#\Agencia_de_Autos\Agencia_de_Autos\bin\Debug\Agencia_de_Autos.exe
+D:\UNIVERSIDAD\3er semestre\Proyectos en C#\Agencia_de_Autos\Agencia_de_Autos\bin\Debug\Agencia_de_Autos.pdb
+D:\UNIVERSIDAD\3er semestre\Proyectos en C#\Agencia_de_Autos\Agencia_de_Autos\obj\Debug\Agencia_de_Autos.csprojResolveAssemblyReference.cache
+D:\UNIVERSIDAD\3er semestre\Proyectos en C#\Agencia_de_Autos\Agencia_de_Autos\obj\Debug\Agencia_de_Autos.exe
+D:\UNIVERSIDAD\3er semestre\Proyectos en C#\Agencia_de_Autos\Agencia_de_Autos\obj\Debug\Agencia_de_Autos.pdb
